@@ -55,61 +55,88 @@ RavexLLM uses a distributed architecture powered by Kubernetes to manage LLM inf
 
 Explore the RavexLLM interface and its different features.
 
+### 💬 Chat Application
+
+The conversational interface for interacting with deployed LLMs.
+
 <table>
   <tr>
     <td width="50%">
-      <img src="images/ravex-2.png" alt="RavexLLM Screenshot 2" width="100%"/>
+      <img src="images/ravex-2.png" alt="RavexLLM Chat Application - Screenshot 2" width="100%"/>
     </td>
     <td width="50%">
-      <img src="images/ravex-3.png" alt="RavexLLM Screenshot 3" width="100%"/>
+      <img src="images/ravex-3.png" alt="RavexLLM Chat Application - Screenshot 3" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+### 📊 Dashboard
+
+The main dashboard for monitoring inference workers, cluster topology, system health, and performance.
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="images/ravex-4.png" alt="RavexLLM Dashboard - Screenshot 4" width="100%"/>
+    </td>
+    <td width="50%">
+      <img src="images/ravex-5.png" alt="RavexLLM Dashboard - Screenshot 5" width="100%"/>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="images/ravex-4.png" alt="RavexLLM Screenshot 4" width="100%"/>
+      <img src="images/ravex-6.png" alt="RavexLLM Dashboard - Screenshot 6" width="100%"/>
     </td>
     <td width="50%">
-      <img src="images/ravex-5.png" alt="RavexLLM Screenshot 5" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="images/ravex-6.png" alt="RavexLLM Screenshot 6" width="100%"/>
-    </td>
-    <td width="50%">
-      <img src="images/ravex-7.png" alt="RavexLLM Screenshot 7" width="100%"/>
+      <img src="images/ravex-7.png" alt="RavexLLM Dashboard - Screenshot 7" width="100%"/>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="images/ravex-8.png" alt="RavexLLM Screenshot 8" width="100%"/>
+      <img src="images/ravex-8.png" alt="RavexLLM Dashboard - Screenshot 8" width="100%"/>
     </td>
     <td width="50%">
-      <img src="images/ravex-9.png" alt="RavexLLM Screenshot 9" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="images/ravex-10.png" alt="RavexLLM Screenshot 10" width="100%"/>
-    </td>
-    <td width="50%">
-      <img src="images/ravex-11.png" alt="RavexLLM Screenshot 11" width="100%"/>
+      <img src="images/ravex-9.png" alt="RavexLLM Dashboard - Screenshot 9" width="100%"/>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="images/ravex-12.png" alt="RavexLLM Screenshot 12" width="100%"/>
+      <img src="images/ravex-10.png" alt="RavexLLM Dashboard - Screenshot 10" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+### 🔥 Prometheus Monitoring
+
+Prometheus monitoring interface for inspecting metrics, scrape targets, and PromQL queries.
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="images/ravex-11.png" alt="Prometheus Monitoring - Screenshot 11" width="100%"/>
     </td>
     <td width="50%">
-      <img src="images/ravex-13.png" alt="RavexLLM Screenshot 13" width="100%"/>
+      <img src="images/ravex-12.png" alt="Prometheus Monitoring - Screenshot 12" width="100%"/>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="images/ravex-14.png" alt="RavexLLM Screenshot 14" width="100%"/>
+      <img src="images/ravex-13.png" alt="Prometheus Monitoring - Screenshot 13" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+### 📈 Grafana Observability
+
+Grafana dashboards for visualizing system metrics, inference performance, and cluster health.
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="images/ravex-14.png" alt="Grafana Observability - Screenshot 14" width="100%"/>
     </td>
     <td width="50%">
-      <img src="images/ravex-15.png" alt="RavexLLM Screenshot 15" width="100%"/>
+      <img src="images/ravex-15.png" alt="Grafana Observability - Screenshot 15" width="100%"/>
     </td>
   </tr>
 </table>
